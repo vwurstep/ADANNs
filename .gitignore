@@ -26,7 +26,7 @@ Test_notebook.ipynb
 onstart.sh
 
 # Ignore readme (because of remote servers)
-README.md
+# README.md
 
 # Ignore all files created on vast.ai server
 .dockerenv

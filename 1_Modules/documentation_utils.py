@@ -17,10 +17,6 @@ from operator_learning_models import MyModel
 from datetime import datetime
 from evaluation_utils import evaluate_method_for_datatable
 
-sys.path.insert(1, '../3_ADANNs/1_ADANN_Modules')
-
-from ADANNs import AdannModel
-
 COLORMAP_2D = "viridis"
 
 # NOT USED ANYMORE (But could still be usefull at some point)

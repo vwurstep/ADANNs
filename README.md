@@ -44,7 +44,7 @@ papermill ADANN_learning_rate_experiments.ipynb Z_output_ADANN_learning_rate_exp
 
 ## Requirements
 
-To run the scripts and reproduce the numerical results, the following packages are needed:
+To run the scripts and reproduce the numerical results the following packages are needed:
 
 - pytorch
 - matplotlib

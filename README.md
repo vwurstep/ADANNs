@@ -12,7 +12,7 @@ The paper is available on [arXiv](https://arxiv.org/abs/2302.03286).
 ## Running the code
 
 All the numerical results in the paper can be reproduced by running the script `execute_notebooks.sh` in the `2_ADANNs` directory. 
-More specifically, the following commands (run in the `2_ADANNs` directory) can be used to reproduce the results of specific sections of the paper:
+The following commands (run in the `2_ADANNs` directory) can be used to reproduce the results of specific sections of the paper:
 
 
 ### Section 4.1.2
